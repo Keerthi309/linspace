@@ -1,0 +1,3 @@
+/fmod-exec/build/CMakeFiles/edit_cache.dir
+/fmod-exec/build/CMakeFiles/rebuild_cache.dir
+/fmod-exec/build/CMakeFiles/fmod.dir
